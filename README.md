@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rishi-S-Kapadia
-- 👀 I’m interested in Data Science and Entrepreneurship 
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Rishi Kapadia
+- 👨‍💻 A Data Sceince Enthusiast, Coder and Writer.
+- 🌱 I’m currently learning MachineLearning 
 - 💞️ I’m looking to collaborate on Projects based on Machine learning, Computer Vision, NLP and Robotics
 - 📫 LinkedIn : https://www.linkedin.com/in/rishi-kapadia-6233111a5/
 
