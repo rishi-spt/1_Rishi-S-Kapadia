@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Rishi Kapadia
+- 👋 Hi, I’m Rishi Kapadia! [hi](https://user-images.githubusercontent.com/79524479/124361125-1ea94600-dc4b-11eb-8127-332bfdc59f25.gif)
+
 - 👨‍💻 A Data Sceince Enthusiast, Coder and Writer.
 - 🌱 I’m currently learning MachineLearning 
 - 💞️ I’m looking to collaborate on Projects based on Machine learning, Computer Vision, NLP and Robotics
